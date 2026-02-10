@@ -2,6 +2,7 @@ import re
 import csv
 from collections import Counter, defaultdict
 import os
+from unicodedata import name
 
 LOG_FILE = "data/sample.log"
 OUTPUT_DIR = "outputs"
