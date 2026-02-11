@@ -1,9 +1,11 @@
 # Log Security Analysis - Mini SOC Project
 
 ## Overview
+
 A hands-on cybersecurity analyst project analyzing web server logs for threats like brute-force attacks and suspicious endpoints. Built with Python, VS Code, and GitHub.
 
 ## Detections Implemented
+
 - Top request-making IPs (high-volume traffic)
 - Brute-force: IPs with >10 failed logins (401 status)
 - Suspicious access: Hits to /admin, /login, /wp-login.php
