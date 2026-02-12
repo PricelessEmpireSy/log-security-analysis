@@ -1,2 +1,2 @@
 # No deps needed for core, but add for future:
-pandas 
+pandas
