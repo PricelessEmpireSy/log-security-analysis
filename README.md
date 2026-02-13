@@ -22,3 +22,5 @@ A hands-on cybersecurity analyst project analyzing web server logs for threats l
 Uses realistic Apache-style web logs in data/sample.log. [web:20]
 
 Extend: Add your own logs or Windows event JSON.
+
+Author: MERCY A. AGBAYI
