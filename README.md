@@ -23,6 +23,6 @@ Uses realistic Apache-style web logs in data/sample.log. [web:20]
 
 Extend: Add your own logs or Windows event JSON.
 
-Author: MERCY A. Agbayi.
+Author: MERCY A. Agbayi
 
-MAA: Project 
+MAA: Project
