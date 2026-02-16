@@ -25,4 +25,4 @@ Extend: Add your own logs or Windows event JSON.
 
 Author: MERCY A. Agbayi.
 
-Project 
+MAA Project 
